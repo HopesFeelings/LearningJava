@@ -21,6 +21,13 @@ public class Lab_001_what_happens_internally {
         System.out.println("string literal "+ System.identityHashCode(sb));
         System.out.println("string literal "+ System.identityHashCode(fromBuilder));
 
+        System.out.println("-------------------");
+
+
+        System.out.println("string literal "+ System.identityHashCode(literal));
+        System.out.println("string literal "+ System.identityHashCode(interned1));
+
+
 
 
 
