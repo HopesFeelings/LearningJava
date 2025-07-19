@@ -4,7 +4,7 @@ public class Lab_01_Constructor_Chaining {
     public static void main(String[] args) {
 
 
-        Bike bk = new Bike();
+        Vehicle bk = new Bike();
 
 
     }
